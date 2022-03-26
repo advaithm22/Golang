@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+        "name": "Bob Smith",
+        "company": "Apple",
+        "services": {
+            "Google": "https://google.com",
+            "Facebook": "https://facebook.com",
+            "Amazon": "https://amazon.com"
+        },
+        "login": "Okta"
+
+
+    },
+
+    {
+        "name": "First Last",
+        "company": "Salesforce",
+        "services": {
+            "Google": "https://google.com",
+            "Facebook": "https://facebook.com",
+            "Amazon": "https://amazon.com"
+        },
+        "login": "Idaptive"  
+        }
+    ]
+
+}
